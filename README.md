@@ -7,7 +7,8 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/490099012033183755" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/490099012033183755"></a>
+    <a href="https://discord.com/users/490099012033183755" title="Discord Profile"> [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/490099012033183755)](https://discord.com/users/490099012033183755)
+
 </div>
 
 ## ⚡ Contact
