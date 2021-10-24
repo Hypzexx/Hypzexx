@@ -16,7 +16,7 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 <div align="center">
     <a href="https://discord.com/users/490099012033183755" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Hypzexx" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~Hypzexx" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://www.npmjs.com/~hypzex" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/maveria" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://Hypzexx.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
